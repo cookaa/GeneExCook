@@ -1,8 +1,8 @@
-### GeneExCook
+# GeneExCook
 A tool to study Gene Correlation
 
 
-# Runing the Program
+### Runing the Program
 To run the program use
 ```
 streamlit run genExCook.py
