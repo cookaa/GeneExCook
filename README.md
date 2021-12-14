@@ -24,7 +24,7 @@ A tool to Normalize genetic expression and study Gene Correlation
 - Why did you undertake it? -->
 
 ### Introduction - the project's aim
-	Genetic sequencing, storage, and processing has reached a point to allow for the study of specific gene expression and their relation with other genes. This project uses housekeeping genes (HK) to normalize the expression of samples before running a correlation analysis. In addition, provides a publicly available program through github to test correlation between different genes.
+Genetic sequencing, storage, and processing has reached a point to allow for the study of specific gene expression and their relation with other genes. This project uses housekeeping genes (HK) to normalize the expression of samples before running a correlation analysis. In addition, provides a publicly available program through github to test correlation between different genes.
 
 ### Technologies
 Python 3.6 was chosen for this project due to its versatility and number of packages to allow for the handling of numbers. Python has a large number of features perfect for biological computation. Some of the included packages include: seaborn, serveItUp, plotly, and sci-kit, sklearn. scipy, numpy, and pandas and streamlit 1.1.0. 
