@@ -1,7 +1,7 @@
 # GeneExCook
 
 A tool to Normalize genetic expression and study Gene Correlation
->TODO Live demo [_here_](https://www.youtube.com). <!-- If you have the project hosted somewhere, include the link here. -->
+<!-- TODO Live demo [_here_](https://www.youtube.com).  -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -102,7 +102,7 @@ Feedback is appreciated, feel free to comment or create an issue and pull reques
 
 
 <!-- Optional -->
-## MIT License -->
+## MIT License
 This project is open source and available under the MIT License.
 
 
